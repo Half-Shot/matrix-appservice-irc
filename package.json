@@ -38,7 +38,8 @@
     "request": "^2.54.0",
     "sanitize-html": "^1.6.1",
     "winston": "^2.4.2",
-    "winston-daily-rotate-file": "^3.2.1"
+    "winston-daily-rotate-file": "^3.2.1",
+    "ws": "^6.0.0"
   },
   "devDependencies": {
     "jasmine": "^3.1.0",
